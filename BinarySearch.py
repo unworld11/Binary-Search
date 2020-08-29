@@ -14,10 +14,6 @@ def bSearch(key,arr):
     else:
         print("Not Found")
 
-array = [1,2,3,4,5,6,7,8,9,10]
-k=5
-
-bSearch(k,array)
 
 
 
